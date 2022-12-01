@@ -1,0 +1,32 @@
+body {
+    background-color: blueviolet;
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+header {
+    margin-bottom: 50px;
+}
+
+header nav ul > li {
+    list-style: none;
+}
+
+header nav ul {
+    display: flex;
+    width: 250px;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+section {
+    margin-bottom: 100px;
+}
+
+footer p {
+    text-align: right;
+}
